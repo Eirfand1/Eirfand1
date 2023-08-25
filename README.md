@@ -13,7 +13,7 @@
 #### 1. [PT. Icon+](https://www.plniconplus.co.id) | On Job Training | Yogyakarta `March 2022`
    - Installation FTTH(Fiber to the Home)
    - Sales
-#### 2. [Hexa Jaya Komputer] | On Job Training | Cilacap `Dec 2021`
+#### 2. Hexa Jaya Komputer | On Job Training | Cilacap `Dec 2021`
    - Mikrotik, Networking
 ---
 ### Language and Tool:
