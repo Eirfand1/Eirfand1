@@ -7,7 +7,7 @@
 ## Education:
 
 #### 1. [Politeknik Negeri Cilacap](https://www.pnc.ac.id) | Information Technology | Cilacap `2023-now`
- #### 2. [SMA N 1 Binangun](https://www.sman1binangun.sch.id) | TKJ | Cilacap `2020-2023`
+ #### 2. [SMK N 1 Binangun](https://www.sman1binangun.sch.id) | TKJ | Cilacap `2020-2023`
 
 ## Work Experience:
 #### 1. [PT. Icon+](https://www.plniconplus.co.id) | On Job Training | Yogyakarta `March 2022`
