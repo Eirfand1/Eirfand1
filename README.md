@@ -18,9 +18,9 @@
 ---
 <br />
 ## Language and Tool
-[<img align="left" alt="HTML" width="30px" src="https://www.w3.org/html/logo/img/mark-only-icon.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Vim" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/120px-Vimlogo.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="HTML" width="30px" src="https://www.w3.org/html/logo/img/mark-only-icon.png" style="padding-right:10px;" />]
+[<img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" style="padding-right:10px;" />]
+[<img align="left" alt="Vim" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/120px-Vimlogo.svg.png" style="padding-right:10px;" />]
 <br />
 
 ---
