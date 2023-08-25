@@ -1,4 +1,4 @@
-# Halo bang, gua irfandi
+# Halo bang, saya Irfandi
 ## About me:
 - 🔭 I’m currently student at Politeknik Negeri Cilacap
 - 🌱 I’m currently learning web development(html,css,javacript)
