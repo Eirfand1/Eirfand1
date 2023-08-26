@@ -34,8 +34,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/wicis_literally#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/wicis_literally#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/facebook-icon-black_78625.png)](https://web.facebook.com/profile.php?id=100022535239857)
-&nbsp;&nbsp;
+
 
 
 
