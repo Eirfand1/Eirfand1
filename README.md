@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning web development(html,css,javacript)
 - 📫 email: name.fandi07@proton.me
 - 💬 Ask me about anything
-- 🌐 https://orang-gaptekposting.blogspot.com/
+- 🌐 website https://orang-gaptekposting.blogspot.com/
 ## Education:
 
 #### 1. [Politeknik Negeri Cilacap](https://www.pnc.ac.id) | Information Technology | Cilacap `2023-now`
