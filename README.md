@@ -1,4 +1,4 @@
-# Irfandi <<
+# If4nd7 
 <div align="left" width="10">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ego-irfandi-894580272)
@@ -8,7 +8,8 @@
 </div>
 <img src="https://media1.tenor.com/m/su552w6Y6WoAAAAd/yuki-nagato.gif" alt="Gift" align="right" width=400 />
 
-Software Engineering student, focused on web development. </br>
+Software Engineering student. </br>
+I'm noob </br>
 Contact: name.fandi07@proton.me
 
 
