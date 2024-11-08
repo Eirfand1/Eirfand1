@@ -16,9 +16,24 @@
    - Mikrotik, Networking
 ---
 ### Language and Tool:
+### Language and Tool:
 [<img align="left" alt="HTML" width="30px" src="https://www.w3.org/html/logo/img/mark-only-icon.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Vim" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/120px-Vimlogo.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Node.js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="PHP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1024px-MySQL_logo.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MongoDB" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Express.js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Neovim" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-logo.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="LazyVim" width="30px" src="https://user-images.githubusercontent.com/292349/219433522-99fc3174-2c27-4a55-bdc9-0450d1ac2d4d.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="CI4" width="30px" src="https://codeigniter.com/assets/icons/ci_icon.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Tailwind CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" style="padding-right:10px;" />][webdev]
+<br />
+<br />
+
 <br />
 <br />
 
