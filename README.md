@@ -6,10 +6,10 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/[your-username])
 
 </div>
-
+<img src="https://media1.tenor.com/m/su552w6Y6WoAAAAd/yuki-nagato.gif" alt="Gift" align="right" width=400 />
 Software Engineering student, focused on web development. </br>
 Contact: name.fandi07@proton.me
-<img src="https://media1.tenor.com/m/su552w6Y6WoAAAAd/yuki-nagato.gif" alt="Gift" align="right" width=400 />
+
 
 ## / about me /
 - Currently studying web development
