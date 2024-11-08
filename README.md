@@ -1,32 +1,28 @@
-<h1 align="center">👋 Hello! I'm Irfandi</h1>
+# Irfandi
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eirfand1&style=flat-square&color=blue" alt="Profile views"/>
-</div>
+Software Engineering student at [Politeknik Negeri Cilacap](https://www.pnc.ac.id), focused on web development.  
+Contact: name.fandi07@proton.me
 
-## 👨‍💻 About Me
-- 🎓 **Student** at [Politeknik Negeri Cilacap](https://www.pnc.ac.id)
-- 🌱 Currently learning **Web Development** (HTML, CSS, JavaScript)
-- 📫 Reach me at: **name.fandi07@proton.me**
+## Education
+**Politeknik Negeri Cilacap** | Information Technology  
+2023 - Present
 
-## 🎓 Education
-- **[Politeknik Negeri Cilacap](https://www.pnc.ac.id)**  
-  Information Technology | Cilacap `2023 - Present`
-- **[SMK N 1 Binangun](http://smkn1binangun.sch.id/)**  
-  Teknik Komputer Jaringan (TKJ) | Cilacap `2020 - 2023`
+**SMK N 1 Binangun** | Computer and Network Engineering  
+2020 - 2023
 
-## 💼 Work Experience
-### [PT. Icon+](https://www.plniconplus.co.id)
-*On Job Training* | Yogyakarta `March 2022`
-- FTTH (Fiber to the Home) Installation
-- Sales
+## Experience
 
-### Hexa Jaya Komputer
-*On Job Training* | Cilacap `Dec 2021`
-- Mikrotik Configuration
-- Network Installation & Troubleshooting
+**PT. Icon+** | Internship  
+March 2022 | Yogyakarta
+- FTTH Installation
+- Sales Operations
 
-## 🛠️ Languages & Tools
+**Hexa Jaya Komputer** | Internship  
+December 2021 | Cilacap
+- Network Configuration (Mikrotik)
+- Infrastructure Setup
+
+## Technical Stack
 
 <div align="center">
 
@@ -54,17 +50,11 @@
 
 </div>
 
-## 🤝 Connect with Me
+## Connect with Me
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ego-irfandi-894580272)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wicis_literally)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/[your-username])
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eirfand1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eirfand1&theme=tokyonight" alt="GitHub Streak" />
 </div>
