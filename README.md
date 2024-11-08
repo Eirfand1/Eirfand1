@@ -1,5 +1,5 @@
 # Irfandi
-<div align="left">
+<div align="left" width="20">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ego-irfandi-894580272)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wicis_literally)
@@ -16,7 +16,7 @@ Contact: name.fandi07@proton.me
 
 ## / Technical Stack /
 
-<div align="center">
+<div align="left">
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
