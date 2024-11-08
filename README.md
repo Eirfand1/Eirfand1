@@ -3,26 +3,12 @@
 Software Engineering student at [Politeknik Negeri Cilacap](https://www.pnc.ac.id), focused on web development.  
 Contact: name.fandi07@proton.me
 
-## Education
-**Politeknik Negeri Cilacap** | Information Technology  
-2023 - Present
+## / about me /
+- Currently studying web development
+- Like linux
+- I'm not anime character
 
-**SMK N 1 Binangun** | Computer and Network Engineering  
-2020 - 2023
-
-## Experience
-
-**PT. Icon+** | Internship  
-March 2022 | Yogyakarta
-- FTTH Installation
-- Sales Operations
-
-**Hexa Jaya Komputer** | Internship  
-December 2021 | Cilacap
-- Network Configuration (Mikrotik)
-- Infrastructure Setup
-
-## Technical Stack
+## / Technical Stack /
 
 <div align="center">
 
@@ -52,7 +38,7 @@ December 2021 | Cilacap
 </div>
 
 ## Connect with Me
-<div align="center">
+<div align="left">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ego-irfandi-894580272)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wicis_literally)
