@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ec97a4c1-065c-4171-be4a-8f6501e66a07)# 👋 Hello! I'm Irfandi
+# 👋 Hello! I'm Irfandi
 ## About Me
 - 🎓 **Student** at [Politeknik Negeri Cilacap](https://www.pnc.ac.id)  
 - 🌱 Currently learning **Web Development** (HTML, CSS, JavaScript)
