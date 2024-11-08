@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/[your-username])
 
 </div>
-Software Engineering student, focused on web development.  
+Software Engineering student, focused on web development. </br>
 Contact: name.fandi07@proton.me
 
 ## / about me /
