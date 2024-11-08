@@ -1,5 +1,11 @@
 # Irfandi
+<div align="left">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ego-irfandi-894580272)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wicis_literally)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/[your-username])
 
+</div>
 Software Engineering student at [Politeknik Negeri Cilacap](https://www.pnc.ac.id), focused on web development.  
 Contact: name.fandi07@proton.me
 
@@ -37,11 +43,3 @@ Contact: name.fandi07@proton.me
 
 </div>
 
-## Connect with Me
-<div align="left">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ego-irfandi-894580272)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wicis_literally)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/[your-username])
-
-</div>
