@@ -26,8 +26,7 @@
 [<img align="left" alt="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1024px-MySQL_logo.svg.png" style="padding-right:10px;" />][webdev]
 <br/>
-[<img align="left" alt="MongoDB" width="30px" src="![image](https://github.com/user-attachments/assets/ab23dc8c-a50b-42c7-8acf-2402e7844d44)
-" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MongoDB" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Express.js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Neovim" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-logo.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="LazyVim" width="30px" src="https://user-images.githubusercontent.com/292349/219433522-99fc3174-2c27-4a55-bdc9-0450d1ac2d4d.png" style="padding-right:10px;" />][webdev]
