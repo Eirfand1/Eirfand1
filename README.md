@@ -9,13 +9,14 @@
 </div>
 
 <img align="right" src="https://media1.tenor.com/m/su552w6Y6WoAAAAd/yuki-nagato.gif" width="320" alt="Gift"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirfand1&layout=compact&theme=tokyonight" width="320" alt="Top Languages"/>
+
 
 Software Engineering student.</br>
 I'm noob</br>
 Contact: name.fandi07@proton.me
 
 ## / About me /
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirfand1&layout=compact&theme=tokyonight" width="320" alt="Top Languages"/>
 - Currently studying web development
 - Like linux
 - Looking for internship or mini project
