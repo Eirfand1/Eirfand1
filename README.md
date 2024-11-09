@@ -16,7 +16,7 @@ Contact: name.fandi07@proton.me
 
 ## / Most Used Languages /
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=If4nd7&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirfand1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ## / Tools and Languages /
