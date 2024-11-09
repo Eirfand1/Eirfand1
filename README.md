@@ -1,22 +1,18 @@
 # iRf4nd7
 
-<div align="left" width="10">
+<div align="left">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ego-irfandi-894580272)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/wicis_literally)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/[your-username])
+
 </div>
 
-<div align="right">
-  <img src="https://media1.tenor.com/m/su552w6Y6WoAAAAd/yuki-nagato.gif" alt="Gift" width=300 />
-  </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirfand1&layout=compact&theme=tokyonight" alt="Top Languages" width=300 />
-</div>
+<img align="right" src="https://media1.tenor.com/m/su552w6Y6WoAAAAd/yuki-nagato.gif" width="320" alt="Gift"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirfand1&layout=compact&theme=tokyonight" width="320" alt="Top Languages"/>
 
-<div align="left">
-
-Software Engineering student. </br>
-I'm noob </br>
+Software Engineering student.</br>
+I'm noob</br>
 Contact: name.fandi07@proton.me
 
 ## / About me /
@@ -42,5 +38,4 @@ Contact: name.fandi07@proton.me
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![LazyVim](https://img.shields.io/badge/LazyVim-019733?style=for-the-badge&logo=vim&logoColor=white)
-</div>
 </div>
