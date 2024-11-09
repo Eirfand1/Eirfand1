@@ -16,7 +16,7 @@ Contact: name.fandi07@proton.me
 ## / About me /
 - Currently studying web development
 - Like linux
-- I'm not anime character
+- Looking for internship or mini project
 
 ## / Tools and Languages /
 
