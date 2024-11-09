@@ -1,3 +1,5 @@
+# If4nd7
+
 <div align="left" width="10">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ego-irfandi-894580272)
@@ -6,6 +8,7 @@
 </div>
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirfand1&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </br>
   <img src="https://media1.tenor.com/m/su552w6Y6WoAAAAd/yuki-nagato.gif" alt="Gift" width=300 />
 </div>
 
