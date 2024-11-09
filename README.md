@@ -18,7 +18,7 @@ Contact: name.fandi07@proton.me
 - Looking for internship or mini project
 
 ## / Tools and Languages /
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirfand1&layout=compact&theme=tokyonight" width="320" alt="Top Languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirfand1&layout=compact&theme=transparent" width="320" alt="Top Languages"/>
 <div>
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
