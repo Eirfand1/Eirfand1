@@ -10,7 +10,7 @@
 <div align="left">
 Software Engineering student. </br>
 I'm noob </br>
-Contact: name.fandi07@proton.me
+Contact: name.fandi07@proton.me</br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirfand1&layout=compact&theme=tokyonight" alt="Top Languages"/>
   
 ## / About me /
