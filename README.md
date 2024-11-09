@@ -7,9 +7,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/[your-username])
 
 </div>
-
 <img align="right" src="https://media1.tenor.com/m/su552w6Y6WoAAAAd/yuki-nagato.gif" width="320" alt="Gift"/>
-
 
 Software Engineering student.</br>
 I'm noob</br>
