@@ -1,4 +1,4 @@
-# If4nd7
+# iRf4nd7
 
 <div align="left" width="10">
   
@@ -7,11 +7,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/[your-username])
 </div>
 
+<div align="right">
+  <img src="https://media1.tenor.com/m/su552w6Y6WoAAAAd/yuki-nagato.gif" alt="Gift" width=300 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirfand1&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
-<img src="https://media1.tenor.com/m/su552w6Y6WoAAAAd/yuki-nagato.gif" alt="Gift" width=300 align="right" />
-</br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirfand1&layout=compact&theme=tokyonight" alt="Top Languages" align="right" />
-
+<div align="left">
 
 Software Engineering student. </br>
 I'm noob </br>
@@ -23,7 +24,7 @@ Contact: name.fandi07@proton.me
 - Looking for internship or mini project
 
 ## / Tools and Languages /
-<div align="left">
+<div>
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,4 +41,5 @@ Contact: name.fandi07@proton.me
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![LazyVim](https://img.shields.io/badge/LazyVim-019733?style=for-the-badge&logo=vim&logoColor=white)
+</div>
 </div>
