@@ -9,6 +9,7 @@
 
 <div align="right">
   <img src="https://media1.tenor.com/m/su552w6Y6WoAAAAd/yuki-nagato.gif" alt="Gift" width=300 />
+  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirfand1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
