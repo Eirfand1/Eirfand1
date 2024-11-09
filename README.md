@@ -8,9 +8,8 @@
 </div>
   <img src="https://media1.tenor.com/m/su552w6Y6WoAAAAd/yuki-nagato.gif" alt="Gift" width=300 align="right" />
   </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirfand1&layout=compact&theme=tokyonight" alt="Top Languages" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirfand1&layout=compact&theme=tokyonight" alt="Top Languages" align="bottom" />
 <div align="left">
-
 Software Engineering student. </br>
 I'm noob </br>
 Contact: name.fandi07@proton.me
