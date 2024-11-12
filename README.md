@@ -5,10 +5,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/wicis_literally)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/[your-username])
 </div>
-[![](https://count.getloli.com/get/@:Eirfand1?theme=gelbooru-h)](https://mininxd.my.id)
+
 Software Engineering student.</br>
 I'm noob</br>
 Contact: name.fandi07@proton.me
+
+[![](https://count.getloli.com/get/@:Eirfand1?theme=gelbooru-h)](https://nyuki.vercel.app)
 
 ## / About me /
 - Currently studying web development
