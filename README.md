@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ego-irfandi-894580272)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/wicis_literally)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/[your-username])
-
 </div>
 
 Software Engineering student.</br>
@@ -19,6 +18,5 @@ Contact: name.fandi07@proton.me
 
 ## / Tools and Languages /
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirfand1&layout=compact&theme=transparent" width="320" alt="Top Languages"/>
-<div>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,nodejs,tailwind,react,vim,neovim,typescript,express,mongodb,php,mysql,laravel)](https://nyuki.vercel.app/)
-</div>
