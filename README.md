@@ -18,4 +18,6 @@ Contact: name.fandi07@proton.me
 - Looking for internship or mini project
 
 ## / Tools and Languages /
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,nodejs,tailwind,react,vim,neovim,typescript,express,mongodb,php,mysql,laravel)](https://nyuki.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,nodejs,tailwind,react,vim)](https://nyuki.vercel.app/)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=neovim,typescript,express,mongodb,php,mysql,laravel,postgresql)](https://nyuki.vercel.app/)
