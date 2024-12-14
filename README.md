@@ -7,15 +7,10 @@
 </div>
 
 Software Engineering student.</br>
-I'm noob</br>
+I'm noob.</br>
 Contact: name.fandi07@proton.me
 
 [![](https://count.getloli.com/get/@:Eirfand1?theme=kasuterura-3)](https://nyuki.vercel.app)
-
-## / About me /
-- Currently studying web development
-- Like linux
-- Looking for internship or mini project
 
 ## / Tools and Languages /
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,nodejs,tailwind,react,vim)](https://nyuki.vercel.app/)
