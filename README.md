@@ -6,13 +6,13 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/[your-username])
 </div>
 ```
-      ___     root@DESKTOP-2CATG90
-     (.. \      Ubuntu 24.04.1 LTS
-     (<> |      Software Engineering student.</br>
-    //  \ \   󰍛  392/3826 MiB (10%)
-   ( |  | /|  󰏔  I'm noob
-  _/\ __)/_)  󰅶  name.fandi07@proton.me
-  \/-____\/  
+          ___     root@DESKTOP-2CATG90
+         (.. \    Ubuntu 24.04.1 LTS
+         (<> |    Software Engineering student.</br>
+        //  \ \   󰍛 392/3826 MiB (10%)
+       ( |  | /|  󰏔 I'm noob
+      */\ *_)/_)  󰅶 name.fandi07@proton.me
+      \/-____\/  
 ```
 
 [![](https://count.getloli.com/get/@:Eirfand1?theme=kasuterura-3)](https://nyuki.vercel.app)
