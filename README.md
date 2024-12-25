@@ -8,7 +8,7 @@
 ```
  root@DESKTOP-2CATG90
    Ubuntu 24.04.1 LTS
-   Software Engineering student.</br>
+   Software Engineering student.
  󰍛  392/3826 MiB (10%)
  󰏔  I'm noob
  󰅶  name.fandi07@proton.me
