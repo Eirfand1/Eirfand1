@@ -16,8 +16,6 @@
       \/-____\/  
 ```
 
-[![](https://count.getloli.com/get/@:Eirfand1?theme=kasuterura-3)](https://nyuki.vercel.app)
-
 ## / Tools and Languages /
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,nodejs,tailwind,react)](https://nyuki.vercel.app/)
 <br>
