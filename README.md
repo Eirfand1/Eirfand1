@@ -6,6 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/[your-username])
 </div>
 
+```
  root@DESKTOP-2CATG90
    Ubuntu 24.04.1 LTS
    Software Engineering student.
