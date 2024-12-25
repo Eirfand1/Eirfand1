@@ -5,14 +5,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/wicis_literally)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/[your-username])
 </div>
-```
+
  root@DESKTOP-2CATG90
    Ubuntu 24.04.1 LTS
    Software Engineering student.
  󰍛  392/3826 MiB (10%)
  󰏔  I'm noob
  󰅶  name.fandi07@proton.me
-```
+ 
 [![](https://count.getloli.com/get/@:Eirfand1?theme=kasuterura-3)](https://nyuki.vercel.app)
 
 ## / Tools and Languages /
