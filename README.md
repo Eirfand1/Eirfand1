@@ -7,12 +7,12 @@
 </div>
 
 ```bash
-          ___     root@yuki
-         (.. \    Ubuntu 24.04.1 LTS
-         (<> |    Software Engineering student.</br>
-        //  \ \   392/3826 MiB (10%)
-       ( |  | /|  I'm noob
-      */\ *_)/_)  name.fandi07@proton.me
+          ___      root@yuki
+         (.. \     Ubuntu 24.04.1 LTS
+         (<> |     Software Engineering student.
+        //  \ \    392/3826 MiB (10%)
+       ( |  | /|   I'm noob
+      */\ *_)/_)   name.fandi07@proton.me
       \/-____\/
 ```
 
