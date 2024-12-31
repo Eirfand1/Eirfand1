@@ -14,6 +14,14 @@
  ( |  | /|  🚀 I'm noob
 */\ *_)/_)  ✉️ name.fandi07@proton.me
  \/-____\/
+
+    _______     yuki@void 
+ _ \______ -    ───────── 
+| \  ___  \ |   🐧 Void Linux 
+| | /   \ | |   📊 runit
+| | \___/ | |   💻 Software Engineering student
+| \______ \_|   🚀 Openbox 
+ -_______\      ✉️ name.fandi07@proton.me
 ```
 
 ## / Tools and Languages /
