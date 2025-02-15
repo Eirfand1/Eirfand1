@@ -12,5 +12,5 @@
    
    -->
 
-   [![cat]](cat.gif)
+  <img src="cat.gif"/>
 </div>
