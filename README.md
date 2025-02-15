@@ -12,5 +12,5 @@
    
    -->
 
-  <img src="cat.gif"/>
+  <img src="cat.gif" width="50"/>
 </div>
