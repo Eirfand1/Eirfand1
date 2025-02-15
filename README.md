@@ -1,11 +1,7 @@
 ```bash
-    _______     yuki@void 
- _ \______ -    ───────── 
-| \  ___  \ |   🐧 Void Linux 
-| | /   \ | |   📊 runit
-| | \___/ | |   💻 Software Engineering student
-| \______ \_|   🚀 Openbox 
- -_______\      ✉️ name.fandi07@proton.me
+
+“O my soul, do not aspire to immortal life,
+but exhaust the limits of the possible.” 
 ```
 
 ## / Tools and Languages /
