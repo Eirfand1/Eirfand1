@@ -13,4 +13,7 @@
    -->
 
   <img src="cat.gif" width="50"/>
+
+  [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/ego-irfandi-894580272/)
+  [![](https://img.shields.io/badge/facebook-6364ff)](https://web.facebook.com/profile.php?id=100022535239857)
 </div>
