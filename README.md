@@ -6,8 +6,6 @@
 </div>
 
 
-
-
 ## / Tools and Languages /
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,laravel,nodejs,react)](https://nyuki.vercel.app/)
 <br>
