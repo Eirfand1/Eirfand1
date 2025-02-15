@@ -1,8 +1,9 @@
-```bash
+<pre align=center>
+  “O my soul, do not aspire to immortal life,
+  but exhaust the limits of the possible.” 
+</pre>
 
-“O my soul, do not aspire to immortal life,
-but exhaust the limits of the possible.” 
-```
+
 
 ## / Tools and Languages /
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,laravel,nodejs,react)](https://nyuki.vercel.app/)
