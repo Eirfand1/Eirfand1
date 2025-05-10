@@ -3,7 +3,7 @@
   <pre>👨‍💻 Ego Irfandi — Software Engineering Student  
 🧠 Uses Emacs • Current Learning : GoLang • Fullstack wannabe
 🐧 Linux • Anime • Absurdism
-💼Infokan tempat magang:)</pre>
+💼 Infokan tempat magang:)</pre>
 
   
    <!--
