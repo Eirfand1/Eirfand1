@@ -15,7 +15,5 @@
 
   <img src="cat.gif" width="50"/>
 
-  [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/ego-irfandi-894580272/)
-  [![](https://img.shields.io/badge/facebook-6364ff)](https://web.facebook.com/profile.php?id=100022535239857)
-  [![](https://img.shields.io/badge/threads-gray)](https://www.threads.com/@wicis_literally)
+  [![](https://img.shields.io/badge/Contact-name.fandi07@proton.me-blue)](mailto:name.fandi07@proton.me)
 </div>
